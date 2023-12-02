@@ -1,7 +1,10 @@
-## New Project that I am working on  
-Tesla
+## Tesla 
+AI case Study  
+Module 1 Challenge - David Mishkinm
 
-Founded in 2012. Elon Musk is the CEO  
-Information  
+1. ### Name of Company:
+   Tesla
+2. ### Company Incorporation:
+Tesla Motors was founded in 2015 
 
 
