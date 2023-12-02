@@ -1,4 +1,4 @@
-## Tesla 
+## Tesla Motors   
 AI case Study  
 Module 1 Challenge - David Mishkin
 
