@@ -1,6 +1,6 @@
 New Project that I am working on  
 Tesla
 
-Tesla
+Founded in 2005    
+Elon Musk is the CEO  
 
-Founded in 2005
